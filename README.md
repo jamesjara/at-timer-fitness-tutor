@@ -7,6 +7,8 @@ more info about the software: [http://3plej-life.blogspot.com/2008/08/attimer-so
 
 [http://img841.imageshack.us/img841/5373/attimerjamesjara.png]
 
+Labels
+Flash, adobe, jamesjara, ActionScript, Training
 
 info :
 
